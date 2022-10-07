@@ -24,7 +24,7 @@ jobs:
           # color_dots:  Coma separated list of dots color.
           outputs: |
             RENDERED_SVG/github-contribution-grid-snake.svg
-            RENDERED_SVG/github-contribution-grid-snake-dark.svg?palette=github-dark
+            RENDERED_SVG/github-contribution-grid-snake-dark.svg
 
       # # push the content of <build_dir> to a branch
       # # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
