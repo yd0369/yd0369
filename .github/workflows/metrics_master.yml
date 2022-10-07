@@ -1,0 +1,144 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Introduction
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user : yd0369
+          base: header
+          base_indepth: yes
+          base_hireable: yes 
+          plugin_introduction: yes
+      
+      - name: Contribution Calendar 
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/contribution_calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Starred Topics with Icons
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/starred_topics_with_icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+      - name: Pinned Repositories
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/pinned_repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 3
+      
+      - name: Featured Star List Languages
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/starlists_languages.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 0
+
+      - name: Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+        
+      - name: LeetCode Stats
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user : yd0369
+          plugin_leetcode_sections: solved, skills, recent
+
+      - name: Recent Activity
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/recent_activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 15
+          plugin_activity_days: 0
+
+      - name: Recent Activity Charts
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/recent_activity_chart.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kolkata
+
+      - name: Indepth Code Analysis
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/indepth_code_analysis.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections : most-used, recently-used
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_limit: 30
+          plugin_languages_analysis_timeout: 40
+
+      - name: Repositories Traffic
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/repositories_traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_traffic: yes
+
+      - name: Fortune
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: RENDERED_SVG/fortune.svg
+          plugin_fortune: yes
+          base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
