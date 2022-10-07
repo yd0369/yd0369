@@ -11,7 +11,6 @@ on:
 jobs:
   contribution_snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
@@ -19,7 +18,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          palette:     github-dark
+          # palette:  [github-dark]
           # color_snake: Color of the snake
           # color_dots:  Coma separated list of dots color.
           outputs: |
