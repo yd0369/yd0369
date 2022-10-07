@@ -1,0 +1,34 @@
+name: Snake Eating my Contributions
+
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  contribution_snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            RENDERED_SVG/github-contribution-grid-snake.svg
+            RENDERED_SVG/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # # push the content of <build_dir> to a branch
+      # # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      # - name: Push github-contribution-grid-snake.svg
+      #   uses: crazy-max/ghaction-github-pages@v2.6.0
+      #   with:
+      #     target_branch: master
+      #     build_dir: RENDERED_SVG 
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
