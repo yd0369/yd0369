@@ -20,7 +20,7 @@
 [<img align="left" width="390" alt="github.com/yd0369" src="https://raw.githubusercontent.com/yd0369/yd0369/main/RENDERED_SVG/repositories_traffic.svg">](#)
 [<img src="https://activity-graph.herokuapp.com/graph?username=yd0369&bg_color=0D1117&color=ffffff&line=1F6FEB&point=58A6FF&area_color=58A6FF&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" />](https://skyline.github.com/yd0369/2022)
 
-[<img src="https://github.com/yd0369/yd0369/blob/RENDER_BRANCH/github-contribution-grid-snake-dark.svg">](#)
+[<img src="https://github.com/yd0369/yd0369/blob/RENDER_BRANCH/github-contribution-grid-snake-dark.svg" width=100%>](#)
 ---
 <div>
 <img src="https://komarev.com/ghpvc/?username=yd0369">
