@@ -1,7 +1,6 @@
 <h3 align="center">Welcome to yd0369's Github</h3>
 <hr>
-  <a href="https://www.linkedin.com/in/yd0369/"> <img alt="Yash Desai - Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:yd0369@proton.me"> <img alt="Yash Desai - Proton Mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+
 <hr>
 
 ---
