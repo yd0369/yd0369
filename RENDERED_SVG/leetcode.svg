@@ -19,36 +19,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.9487904492617 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">193</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3183</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.879468522619423 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">191</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3161</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.38154613466334 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.529411764705884 329"/>
                                     <text x="60" y="50" dominant-baseline="central">96</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/802</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/799</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.348086124401915 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">78</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1672</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.099033816425122 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">76</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1656</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.816643159379408 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.854107648725213 329"/>
                                     <text x="60" y="50" dominant-baseline="central">19</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/709</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/706</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x106</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x41</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x105</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x41</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x40</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x31</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x26</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x26</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x25</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x25</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x23</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x22</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x21</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x20</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x19</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
