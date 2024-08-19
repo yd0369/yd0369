@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="864" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2154" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.leetcode .count{font-size:10px;color:#666}.leetcode{align-items:flex-start}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,15 +22,710 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c122ffb</div>
+                                        <div class="message">Monday Commits</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#711d613</div>
+                                        <div class="message">vault backup: 2024-08-12 10:12:36
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/Pasted image 20240812041246.png
+STUDY/DSA/articles/__media__/Pasted image 20240812041258.png
+STUDY/DSA/articles/__media__/Pasted image 20240812041301.png
+STUDY/DSA/articles/__media__/Pasted image 20240812041309.png
+STUDY/DSA/articles/__media__/Pasted image 20240812041316.png
+STUDY/DSA/articles/__media__/Pasted image 20240812041528.png
+STUDY/DSA/articles/__media__/Pasted image 20240812044232.png
+STUDY/DSA/articles/__media__/Pasted image 20240812051803.png
+STUDY/DSA/articles/__media__/binary-and-linear-search-animations.gif
+STUDY/DSA/articles/__media__/binary-search.gif
+STUDY/DSA/articles/__media__/binary_search_poster.png
+STUDY/DSA/articles/__media__/linear_search_poster.png
+STUDY/DSA/articles/__media__/linear_vs_binary_search_abstract.gif
+STUDY/DSA/articles/core/7-searching/2-binary_search.md
+STUDY/DSA/articles/core/7-searching/3-ternary_search.md
+STUDY/DSA/articles/core/7-searching/4-binary_search_in_CPP-STL.md
+STUDY/DSA/articles/core/7-searching/5-sample_problems_on_searching.md
+STUDY/DSA/articles/core/7-searching/6-index_of_first_and_last_occurrence.md
+STUDY/DSA/articles/core/7-searching/7-count_occurrence_of_number_in_array.md
+STUDY/DSA/material/Websites.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68a8940</div>
+                                        <div class="message">vault backup: 2024-08-12 07:04:16
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/7-searching/1-linear_search.md
+STUDY/DSA/articles/core/7-searching/2-binary_search.md
+STUDY/DSA/articles/core/7-searching/Pasted image 20240812041246.png
+STUDY/DSA/articles/core/7-searching/Pasted image 20240812041258.png
+STUDY/DSA/articles/core/7-searching/Pasted image 20240812041301.png
+STUDY/DSA/articles/core/7-searching/Pasted image 20240812041309.png
+STUDY/DSA/articles/core/7-searching/Pasted image 20240812041316.png
+STUDY/DSA/articles/core/7-searching/Pasted image 20240812041528.png
+STUDY/DSA/articles/core/7-searching/Pasted image 20240812044232.png
+STUDY/DSA/articles/core/7-searching/Pasted image 20240812051803.png
+STUDY/DSA/articles/core/7-searching/binary-and-linear-search-animations.gif
+STUDY/DSA/articles/core/7-searching/binary-search.gif
+STUDY/DSA/articles/core/7-searching/binary_search_poster.png
+STUDY/DSA/articles/core/7-searching/linear_search_poster.png
+STUDY/DSA/articles/core/7-searching/thumb.gif
+daily_notes/2024/08-Aug/2024-Aug-12.md
+templates/Alerts in markdown.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee8ded7</div>
+                                        <div class="message">vault backup: 2024-08-12 03:22:31
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/08-Aug/2024-Aug-12.md
+daily_notes/2024/08-Aug/2024-Aug-18.md
+schedule.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6605229</div>
+                                        <div class="message">vault backup: 2024-08-11 17:51:05
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/6-arrays/25-minimum_consecutive_flips_to_make_everything_same.md
+STUDY/DSA/articles/core/6-arrays/26-sliding_window_technique.md
+STUDY/DSA/articles/core/6-arrays/27-subarray_with_given_sum.md
+STUDY/DSA/articles/core/6-arrays/28-prefix_sum.md
+STUDY/DSA/articles/core/6-arrays/29-weighted_sum_with_prefix_sum.md
+STUDY/DSA/articles/core/6-arrays/30-equilibrium_point.md
+STUDY/DSA/articles/core/6-arrays/31-maximum_appearing_element_in_ranges.md
+STUDY/DSA/articles/core/6-arrays/Pasted image 20240811110309.png
+STUDY/DSA/articles/core/6-arrays/Pasted image 20240811155448.png
+STUDY/DSA/articles/core/6-arrays/Untitled.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#692d6e8</div>
+                                        <div class="message">vault backup: 2024-08-11 09:49:17
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/6-arrays/24-majority_element_in_array.md
+STUDY/DSA/articles/core/6-arrays/Untitled 1.md
+STUDY/DSA/articles/core/6-arrays/Untitled.md
+daily_notes/2024/08-Aug/2024-Aug-11.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27a6ac4</div>
+                                        <div class="message">vault backup: 2024-08-10 19:45:20
+
+Affected files:
+LC Solved TODO MAKE ENTRY.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4605528</div>
+                                        <div class="message">vault backup: 2024-08-10 17:03:37
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/6-arrays/18-subarrays.md
+STUDY/DSA/articles/core/6-arrays/19-circular_subarrays.md
+STUDY/DSA/articles/core/6-arrays/20-maximum_subarray_sum.md
+STUDY/DSA/articles/core/6-arrays/21-longest_even_odd_subarray.md
+STUDY/DSA/articles/core/6-arrays/22-kadane_algorithm.md
+STUDY/DSA/articles/core/6-arrays/23-maximum_circular_subarray_sum.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b17cd1</div>
+                                        <div class="message">vault backup: 2024-08-10 13:17:19
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/Pasted image 20240808053051.png
+STUDY/DSA/articles/__media__/Pasted image 20240809041149.png
+STUDY/DSA/articles/core/6-arrays/19-longest_even_odd_subarray.md
+STUDY/DSA/articles/core/6-arrays/19-longest_even_odd_subarray_Kadane_Algo.md
+STUDY/DSA/articles/core/6-arrays/20-kadane_algorithm.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3adf6c1</div>
+                                        <div class="message">vault backup: 2024-08-10 11:49:04
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/6-arrays/19-longest_even_odd_subarray_Kadane_Algo.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92449af</div>
+                                        <div class="message">vault backup: 2024-08-10 10:32:32
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/08-Aug/2024-Aug-10.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59f12e9</div>
+                                        <div class="message">vault backup: 2024-08-10 09:11:39
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/6-arrays/18-maximum_subarray_sum.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#962887c</div>
+                                        <div class="message">vault backup: 2024-08-09 08:04:27
+
+Affected files:
+.obsidian/graph.json
+.obsidian/workspace.json
+STUDY/DSA/articles/core/6-arrays/16-trapping_rain_water.md
+STUDY/DSA/articles/core/6-arrays/17-maximum_consecutive_1s.md
+STUDY/DSA/articles/core/6-arrays/18-maximum_subarray_sum.md
+Untitled 1.canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48d2b20</div>
+                                        <div class="message">vault backup: 2024-08-09 05:22:09
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/6-arrays/15-stock_buy_and_sell_problem.md
+STUDY/DSA/articles/core/6-arrays/Pasted image 20240809041149.png
+daily_notes/2024/08-Aug/2024-Aug-09.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e05a30b</div>
+                                        <div class="message">vault backup: 2024-08-09 02:49:46
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/Pasted image 20240808052626.png
+STUDY/DSA/articles/core/6-arrays/14-frequency_in_sorted_array.md
+STUDY/DSA/articles/core/6-arrays/15-stock_buy_and_sell_problem.md
+STUDY/DSA/articles/core/6-arrays/Pasted image 20240808053051.png
+daily_notes/2024/08-Aug/2024-Aug-08.md
+schedule.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7964b8b</div>
+                                        <div class="message">vault backup: 2024-08-07 09:11:32
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/08-Aug/2024-Aug-07.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e33ace</div>
+                                        <div class="message">vault backup: 2024-08-07 08:11:18
+
+Affected files:
+.obsidian/workspace.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 29 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cb6dc9a</div>
+                                        <div class="message">vault backup: 2024-08-05 03:38:36
+
+Affected files:
+.obsidian/workspace.json
+STUDY/Manaagement/Time/Brian Tracy - Personal Time Management.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0660eb</div>
+                                        <div class="message">vault backup: 2024-08-04 16:52:53
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/4-recursion/5-tower_of_hanoi.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97f06a0</div>
+                                        <div class="message">vault backup: 2024-08-04 14:36:45
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/Pasted image 20240804130100.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/8-print_all_permutation_using_recursion.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eef3fac</div>
+                                        <div class="message">vault backup: 2024-08-04 13:34:53
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/Josephus_Problem_n_5_and_k_1.gif
+STUDY/DSA/articles/__media__/Pasted image 20240803094309.png
+STUDY/DSA/articles/__media__/Pasted image 20240803094538.png
+STUDY/DSA/articles/__media__/Pasted image 20240803105723.png
+STUDY/DSA/articles/__media__/Pasted image 20240803124816.png
+STUDY/DSA/articles/__media__/Pasted image 20240803131917.png
+STUDY/DSA/articles/__media__/Pasted image 20240804041021.png
+STUDY/DSA/articles/__media__/Pasted image 20240804041555.png
+STUDY/DSA/articles/__media__/Pasted image 20240804064528.png
+STUDY/DSA/articles/__media__/Pasted image 20240804094152.png
+STUDY/DSA/articles/__media__/Pasted image 20240804114058.png
+STUDY/DSA/articles/__media__/Pasted image 20240804114110.png
+STUDY/DSA/articles/__media__/Pasted image 20240804120536.png
+STUDY/DSA/articles/__media__/Pasted image 20240804125507.png
+STUDY/DSA/articles/__media__/Pasted image 20240804125544.png
+STUDY/DSA/articles/__media__/Pasted image 20240804125618.png
+STUDY/DSA/articles/__media__/Pasted image 20240804125649.png
+STUDY/DSA/articles/__media__/Screenshot_20240803_080209.png
+STUDY/DSA/articles/__media__/towerOfHanoi.gif
+STUDY/DSA/articles/cpp_concepts/STL/2-Containers/stl_containers.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/0-introduction.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/1-basic_recursive_functions.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/2-tail_recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/3-rope_cutting_problem_using_recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/4-generate_subsets_using_recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/5-tower_of_hanoi.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/6-josephus_problem_using_recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/7-count_subset_which_sum_is_subset_sum.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/8-print_all_permutation_using_recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/Pasted image 20240804130100.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/fibonacci and factorial using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/generate subset using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/is palindrome using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/rope cutting problem using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/tower of hanoi.md
+STUDY/DSA/leetcode/__media__/Pasted image 20240804122407.png
+STUDY/DSA/leetcode/problem_set/1001-2000/1801-1900/1823_-_Find_the_Winner_of_the_Circular_Game.md
+STUDY/DSA/material/Tools.md
+daily_notes/2024/08-Aug/2024-Aug-04.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d35738</div>
+                                        <div class="message">vault backup: 2024-08-03 18:26:17
+
+Affected files:
+.obsidian/workspace.json
+STUDY/Manaagement/Time/Brian Tracy - Personal Time Management.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fe5e81</div>
+                                        <div class="message">vault backup: 2024-08-03 14:28:27
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/4-recursion/Pasted image 20240803124816.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/Pasted image 20240803131917.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/tower of hanoi.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36a75b6</div>
+                                        <div class="message">vault backup: 2024-08-03 12:05:06
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/4-recursion/Pasted image 20240803105723.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/count subset which sum is subset sum.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/tower of hanoi.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6f2fc9</div>
+                                        <div class="message">vault backup: 2024-08-03 10:34:31
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/4-recursion/Pasted image 20240803094309.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/Pasted image 20240803094538.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/Screenshot_20240803_080209.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/count subset which sum is subset sum.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a32114</div>
+                                        <div class="message">vault backup: 2024-08-03 09:27:05
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/Pasted image 20240803081049.png
+STUDY/DSA/articles/__media__/Pasted image 20240803081422.png
+STUDY/DSA/articles/__media__/Pasted image 20240803082700.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/fibonacci and factorial using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/generate subset using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/is palindrome using recursion.md
+daily_notes/2024/08-Aug/2024-Aug-03.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c3b30f</div>
+                                        <div class="message">vault backup: 2024-08-02 09:11:03
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/08-Aug/2024-Aug-02.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8abaa56</div>
+                                        <div class="message">vault backup: 2024-08-02 07:27:41
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/08-Aug/2024-Aug-01.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8a06f1</div>
+                                        <div class="message">vault backup: 2024-08-01 05:54:32
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/material/Tools.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bf5373</div>
+                                        <div class="message">vault backup: 2024-07-31 08:45:34
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/course/Course Book.md
+STUDY/DSA/course/Pasted image 20240731075706.png
+STUDY/DSA/course/Pasted image 20240731075807.png
+STUDY/DSA/course/Pasted image 20240731075904.png
+daily_notes/2024/07-Jul/2024-Jul-31.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da141fe</div>
+                                        <div class="message">vault backup: 2024-07-31 07:04:37
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/material/Tools.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3af6c9</div>
+                                        <div class="message">vault backup: 2024-07-30 08:42:00
+
+Affected files:
+.obsidian/graph.json
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/4-recursion/fibonacci and factorial using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/generate subset using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/is palindrome using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/power function using recursion.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/rope cutting problem using recursion.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e97873e</div>
+                                        <div class="message">vault backup: 2024-07-30 06:04:09
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/07-Jul/2024-Jul-30.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3312c9</div>
+                                        <div class="message">vault backup: 2024-07-30 05:02:20
+
+Affected files:
+.obsidian/workspace.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42f4f2c</div>
+                                        <div class="message">vault backup: 2024-07-29 09:20:41
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/Pasted image 20240729061809.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/tailRecursionFactorial.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29ae83c</div>
+                                        <div class="message">vault backup: 2024-07-29 07:57:36
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/STL/2-Containers/stl_containers.md
+STUDY/DSA/articles/dsa_concepts/4-recursion/Pasted image 20240729061809.png
+STUDY/DSA/articles/dsa_concepts/4-recursion/tailRecursionFactorial.md
+STUDY/DSA/material/Tools.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9677fb4</div>
+                                        <div class="message">vault backup: 2024-07-29 05:15:43
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/07-Jul/2024-Jul-29.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 16 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4bb917d</div>
+                                        <div class="message">vault backup: 2024-07-28 16:55:23
+
+Affected files:
+.obsidian/plugins/color-cycler/data.json
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/xor_bin2gray.png
+STUDY/DSA/articles/__media__/xor_gray2bin.png
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/7 - XOR Properties.md
+STUDY/DSA/articles/dsa_concepts/1-bitwise/Swap all odd and even bits.md
+STUDY/DSA/articles/dsa_concepts/2-array/basic/0-reverse_the_array.md
+STUDY/DSA/articles/dsa_concepts/2-array/basic/1-max_and_min_value_from_array_with_minimum_comparisons.md
+STUDY/DSA/articles/dsa_concepts/2-array/basic/2-find_Kth_Smallest_or_Largest_Element_from_unsorted_Array.md
+STUDY/DSA/articles/dsa_concepts/2-array/basic/20240616_045630.heic
+STUDY/DSA/articles/dsa_concepts/2-array/basic/3-rotate_array.md
+STUDY/DSA/articles/dsa_concepts/2-array/basic/4-second_third_smallest_largest_element_from_array.md
+STUDY/DSA/articles/dsa_concepts/3-string/palindrome.md
+Untitled.canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ccd82c</div>
+                                        <div class="message">vault backup: 2024-07-28 15:48:09
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/4 - count set bits.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/7 - XOR Properties.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac2cfb1</div>
+                                        <div class="message">vault backup: 2024-07-28 11:30:55
+
+Affected files:
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/4 - count set bits.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c774f6</div>
+                                        <div class="message">vault backup: 2024-07-28 09:29:42
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/7 - XOR Properties.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ede2f35</div>
+                                        <div class="message">vault backup: 2024-07-28 06:42:07
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/Pasted image 20240723043100.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043118.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043328.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043357.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043511.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043558.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043656.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043720.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043733.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043755.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043807.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043821.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043844.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043900.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043913.png
+STUDY/DSA/articles/__media__/Pasted image 20240723043921.png
+STUDY/DSA/articles/maths_concepts/Count of digits in factorial.md
+STUDY/DSA/articles/maths_concepts/XOR_Properties.md
+daily_notes/2024/07-Jul/2024-Jul-28.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63966f4</div>
+                                        <div class="message">vault backup: 2024-07-28 04:28:42
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/8 - power set using bitwise operators.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1470f90</div>
+                                        <div class="message">vault backup: 2024-07-27 20:08:12
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/7 - XOR Properties.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/8 - power set using bitwise operators.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/Untitled.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#249f4c7</div>
+                                        <div class="message">vault backup: 2024-07-27 18:00:35
+
+Affected files:
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/7 - XOR Properties.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2094131</div>
+                                        <div class="message">vault backup: 2024-07-27 16:40:40
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/0 - all bitwise operators and their properties.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/5 - set, unset, toggle Kth bit.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/6 - is power of 2.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/6 - is power of 3.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/6 - is power of 4.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/7 - XOR Properties.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/check if given number is power of two.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/one odd occuring.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/two odd occuring.md
+STUDY/DSA/leetcode/problem_set/1-1000/301-400/326_-_Power_of_Three.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18d6d26</div>
+                                        <div class="message">vault backup: 2024-07-27 12:58:12
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/4 - count set bits.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30c5324</div>
+                                        <div class="message">vault backup: 2024-07-27 11:23:29
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/4 - count set bits.md
+daily_notes/2024/07-Jul/2024-Jul-27.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cef7f6</div>
+                                        <div class="message">vault backup: 2024-07-27 04:47:48
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/2s-complement.png
+STUDY/DSA/articles/__media__/ezgif.com-gif-maker--1-.gif
+STUDY/DSA/articles/__media__/ezgif.com-gif-maker--2--1.gif
+STUDY/DSA/articles/__media__/ezgif.com-gif-maker--3-.gif
+STUDY/DSA/articles/__media__/ezgif.com-gif-maker--4-.gif
+STUDY/DSA/articles/__media__/ezgif.com-gif-maker--5-.gif
+STUDY/DSA/articles/__media__/ezgif.com-gif-maker--6-.gif
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/0 - all bitwise operators and their properties.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/0 - bitwise operations - basics.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/2 - 2's Complement - binary representation of negative number.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/3 - check if Kth bit is set or not.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/4 - count set bits.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5ca1b1</div>
+                                        <div class="message">vault backup: 2024-07-26 05:55:19
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/0 - all bitwise operators and their properties.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/2 - 2's Complement - binary representation of negative number.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/Pasted image 20240726044321.png
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/Untitled.md
+daily_notes/2024/07-Jul/2024-Jul-26.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c42ee0</div>
+                                        <div class="message">vault backup: 2024-07-26 04:10:28
+
+Affected files:
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+.obsidian/plugins/obsidian-icon-folder/data.json
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/Boolean_Operations_TruthTable.png
+STUDY/DSA/articles/__media__/LSB_MSB_POSTER.png
+STUDY/DSA/articles/__media__/changes_in_lsb_msb.png
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/0 - LSB and MSB.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/0 - all bitwise operators and their properties.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/1 - int to binary string.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/2 - binary representation of negative number.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/3 - check if Kth bit is set or not.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/4 - count set bits.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/5 - set, unset, toggle Kth bit.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/All operators and their properties.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/check if given number is power of two.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/one odd occuring.md
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/two odd occuring.md
+STUDY/DSA/course/gfg_dsa/Drawing 2024-07-24 09.11.49.excalidraw.md
+STUDY/DSA/leetcode/LCDB.md
+STUDY/DSA/leetcode/__media__/Pasted image 20240721142927.png
+STUDY/DSA/leetcode/__media__/Pasted image 20240721142959.png
+STUDY/DSA/leetcode/problem_set/1-1000/1-100/67_-_Add_Binary.md
+STUDY/DSA/leetcode/problem_set/1-1000/101-200/190_-_Reverse_Bits.md
+STUDY/DSA/leetcode/problem_set/1-1000/101-200/191_-_Number_of_1_Bits.md
+STUDY/DSA/leetcode/problem_set/1-1000/201-300/231_-_Power_of_Two.md
+STUDY/DSA/leetcode/problem_set/1-1000/301-400/338_-_Counting_Bits.md
+STUDY/DSA/leetcode/problem_set/1-1000/301-400/342_-_Power_of_Four.md
+STUDY/DSA/leetcode/problem_set/2001-3000/2501-2600/2595_-_Number_of_Even_and_Odd_Bits.md
+daily_notes/2024/07-Jul/2024-Jul-25.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#499e373</div>
+                                        <div class="message">vault backup: 2024-07-24 09:40:39
+
+Affected files:
+.obsidian/workspace.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d961ea</div>
+                                        <div class="message">vault backup: 2024-07-24 09:40:34
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/cpp_concepts/BitwiseOperators/All operators and their properties.md
+STUDY/DSA/course/gfg_dsa/Drawing 2024-07-24 09.11.49.excalidraw.md
+STUDY/DSA/course/gfg_dsa/Pasted Image 20240724091713_919.png
+daily_notes/2024/07-Jul/2024-Jul-24.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">projekt-nv3/PNV3_Camera_API</span>
+                                        <span class="repo">yd0369/endeavor</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4ca067c</div>
-                                        <div class="message">Added Jupyter Notebook for camera testing....</div>
+                                        <div class="sha">#e037273</div>
+                                        <div class="message">vault backup: 2024-07-23 09:38:09
+
+Affected files:
+.obsidian/plugins/obsidian-icon-folder/data.json
+.obsidian/workspace.json
+STUDY/DSA/articles/maths_concepts/Exponent Power Calculation.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,104 +737,82 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">projekt-nv3/PNV3_Mobility_API</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">yd0369/endeavor</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0ce7c0e</div>
-                                        <div class="message">Merge pull request #2 from Elevenv/master
+                                        <div class="sha">#090b6ca</div>
+                                        <div class="message">vault backup: 2024-07-23 08:27:30
 
-LOOKS GOOD</div>
+Affected files:
+.obsidian/community-plugins.json
+.obsidian/plugins/color-cycler/data.json
+.obsidian/plugins/obsidian-icon-folder/data.json
+.obsidian/plugins/obsidian-icon-folder/main.js
+.obsidian/plugins/obsidian-icon-folder/manifest.json
+.obsidian/plugins/obsidian-icon-folder/styles.css
+.obsidian/workspace.json
+DASHBOARD/LC_Dashboard.md
+DASHBOARD/Sleep Cycle Dashboard.md
+DASHBOARD/Streaks Dashboard.md
+DASHBOARD/Typing Dashboard.md
+DRAW/Drawing 2024-07-20 08.59.46.excalidraw.md
+DRAW/Pasted Image 20240720090407_674.jpg
+GOALS/Courses_n_Certifications.md
+GOALS/Eisenhower Matrix/About Matrix.md
+GOALS/Eisenhower Matrix/Matrix - ExcaliDraw.md
+GOALS/Eisenhower Matrix/Matrix Kanban.md
+GOALS/Eisenhower Matrix/Pasted Image 20240723080722_280.png
+GOALS/Untitled.md
+GOALS/__media__/Pasted image 20240723075907.png
+STUDY/DSA/articles/maths_concepts/Prime/sieve of eratosthenes.md
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043100.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043118.png
+Untitled Kanban 1.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bea64ee</div>
-                                        <div class="message">BREAK system added</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#2 Master</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Elevenv in <span class="repo">projekt-nv3/PNV3_Mobility_API</span></div>
-                                    <div>1 file changed <span class="code">++57 --20</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">projekt-nv3/PNV3_Mobility_API</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#317a603</div>
-                                        <div class="message">Merge pull request #1 from Elevenv/master
+                                        <div class="sha">#579dac2</div>
+                                        <div class="message">vault backup: 2024-07-23 06:00:25
 
-phase shift servo + bldc code added
-
-
-WILL MISS THIS MOMENT WITH YOU.....</div>
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/0-essentials/time_and_space_complexity_for_intuition.md
+STUDY/DSA/articles/maths_concepts/Pasted image 20240723043100.png
+STUDY/DSA/articles/maths_concepts/Pasted image 20240723043118.png
+STUDY/DSA/articles/maths_concepts/Prime/prime factors.md
+STUDY/DSA/articles/maths_concepts/Prime/prime numbers.md
+STUDY/DSA/articles/maths_concepts/Prime/sieve of eratosthenes.md
+STUDY/DSA/articles/maths_concepts/Progression/Arithmetic and Geometric Progression.md
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043328.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043357.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043511.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043558.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043656.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043720.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043733.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043755.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043807.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043821.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043844.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043900.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043913.png
+STUDY/DSA/articles/maths_concepts/Progression/Pasted image 20240723043921.png
+STUDY/DSA/articles/maths_concepts/all divisors of a number.md
+daily_notes/2024/07-Jul/2024-Jul-23.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6918a2b</div>
-                                        <div class="message">phase shift servo + bldc code added</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#1 phase shift servo + bldc code added</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Elevenv in <span class="repo">projekt-nv3/PNV3_Mobility_API</span></div>
-                                    <div>1 file changed <span class="code">++72 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">yd0369/yd0369</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d4ce887</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#2b85ad2</div>
+                                        <div class="message">vault backup: 2024-07-22 11:44:08
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/maths_concepts/GCD_and_LCM/LCM.md
+STUDY/DSA/articles/maths_concepts/factorial of a number.md
+STUDY/DSA/articles/maths_concepts/prime factors.md
+STUDY/DSA/articles/maths_concepts/prime numbers.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -152,90 +825,23 @@ WILL MISS THIS MOMENT WITH YOU.....</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">yd0369/yd0369</span>
+                                        <span class="repo">yd0369/endeavor</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b10fa50</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">projekt-nv3/PNV3_Arduino-Jetson-API</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ef3954f</div>
-                                        <div class="message">Merge pull request #1 from Elevenv/main
+                                        <div class="sha">#89b43b5</div>
+                                        <div class="message">vault backup: 2024-07-22 08:37:46
 
-Version 1.0 added with codebase</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d75a74</div>
-                                        <div class="message">Version 1.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#1 Version 1.0 added with codebase</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Elevenv in <span class="repo">projekt-nv3/PNV3_Arduino-Jetson-API</span></div>
-                                    <div>2 files changed <span class="code">++200 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1 Version 1.0 added with codebase</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Elevenv in <span class="repo">projekt-nv3/PNV3_Arduino-Jetson-API</span></div>
-                                    <div class="comment">lgtm</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">projekt-nv3/TESTING_API</span>
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/maths_concepts/GCD_and_LCM/GCD.md
+STUDY/DSA/articles/maths_concepts/count digits in a number.md.orig
+STUDY/DSA/articles/maths_concepts/factorial of a number.md.orig
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/11 - Space Complexity.md.orig
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/9 - Analysis of Recursion.md.orig
+Untitled Kanban 1.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -249,7 +855,7 @@ Version 1.0 added with codebase</div>
                                     <div class="content">
                                         Created new
                       repository
-                                        <span class="repo">projekt-nv3/TESTING_API</span>
+                                        <span class="repo">yd0369/GCP_ARCADE_2024</span>
                                     </div>
                                 </div>
                             </section>
@@ -263,9 +869,9 @@ Version 1.0 added with codebase</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">main</span>
+                                        <span class="code">master</span>
                                         in
-                                        <span class="repo">projekt-nv3/PNV3_Arduino-Jetson-API</span>
+                                        <span class="repo">yd0369/GCP_ARCADE_2024</span>
                                     </div>
                                 </div>
                             </section>
@@ -274,12 +880,430 @@ Version 1.0 added with codebase</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">projekt-nv3/PNV3_Arduino-Jetson-API</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6a94179</div>
+                                        <div class="message">RESTORE DELETED OCCURENCE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47bb813</div>
+                                        <div class="message">vault backup: 2024-07-22 05:49:25
+
+Affected files:
+.obsidian/appearance.json
+.obsidian/plugins/color-cycler/data.json
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/0-essentials/time_and_space_complexity_for_intuition.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 1 - Count Digits.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 10 - Sieve of Eratosthenes.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 11 - Computing Power.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 12 - Modular Arithmetic.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 2 - Palindrome Numbers.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 3 - Factorial of a Number.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 4 - Trailing Zeros in Factorial.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 5 - GCD or HCF of two Numbers.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 6 - LCM of Two Numbers.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 7 - Check for Prime.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 8 - Prime Factors.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 9 - All Divisors of a Number.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/Pasted image 20240721045051.png
+STUDY/DSA/course/gfg_dsa/2-Mathematics/Pasted image 20240721045222.png
+STUDY/DSA/course/gfg_dsa/2-Mathematics/Pasted image 20240721045304.png
+STUDY/DSA/course/gfg_dsa/2-Mathematics/Pasted image 20240721045440.png
+STUDY/DSA/course/gfg_dsa/PLAN.md
+STUDY/DSA/leetcode/problem_set/1-1000/101-200/172_-_Factorial_Trailing_Zeroes.md
+TODO/Courses_n_Certifications.md
+Untitled 1.canvas
+Untitled Kanban.md
+Untitled.canvas
+daily_notes/2024/07-Jul/2024-Jul-21.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8ed35da</div>
+                                        <div class="message">mobile commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc511d5</div>
+                                        <div class="message">vault backup: 2024-07-21 17:47:59
+
+Affected files:
+.obsidian/workspace-mobile.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c0f140</div>
+                                        <div class="message">vault backup: 2024-07-21 17:35:13
+
+Affected files:
+.obsidian/appearance.json
+.obsidian/workspace-mobile.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcf9bd7</div>
+                                        <div class="message">vault backup: 2024-07-21 12:39:32
+
+Affected files:
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/plugins/color-cycler/main.js
+.obsidian/plugins/color-cycler/manifest.json
+.obsidian/plugins/dataview/main.js
+.obsidian/plugins/dataview/manifest.json
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+.obsidian/plugins/obsidian-excalidraw-plugin/main.js
+.obsidian/plugins/obsidian-excalidraw-plugin/manifest.json
+.obsidian/plugins/obsidian-excalidraw-plugin/styles.css
+.obsidian/workspace-mobile.json
+Excalidraw/Drawing 2024-07-20 08.59.46.excalidraw.md
+daily_notes/2024/07-Jul/2024-Jul-21.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ef9aa5</div>
+                                        <div class="message">vault backup: 2024-07-20 13:16:39
+
+Affected files:
+.obsidian/workspace-mobile.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2633f7e</div>
+                                        <div class="message">vault backup: 2024-07-21 17:34:28
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/maths_concepts/factorial of a number.md
+STUDY/DSA/leetcode/problem_set/1-1000/1-100/66_-_Plus_One.md
+STUDY/DSA/leetcode/problem_set/1-1000/101-200/172_-_Factorial_Trailing_Zeroes.md
+STUDY/DSA/leetcode/problem_set/1-1000/101-200/Pasted image 20240721142927.png
+STUDY/DSA/leetcode/problem_set/1-1000/101-200/Pasted image 20240721142959.png
+STUDY/DSA/leetcode/problem_set/1-1000/101-200/Untitled Kanban.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a9dd9b</div>
+                                        <div class="message">vault backup: 2024-07-21 08:06:10
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/0-essentials/time_and_space_complexity_for_intuition.md
+STUDY/DSA/articles/maths_concepts/count digits in a number.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 1 - Count Digits.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 10 - Sieve of Eratosthenes.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 11 - Computing Power.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 12 - Modular Arithmetic.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 2 - Palindrome Numbers.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 3 - Factorial of a Number.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 4 - Trailing Zeros in Factorial.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 5 - GCD or HCF of two Numbers.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 6 - LCM of Two Numbers.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 7 - Check for Prime.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 8 - Prime Factors.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/ 9 - All Divisors of a Number.md
+STUDY/DSA/course/gfg_dsa/2-Mathematics/Pasted image 20240721045051.png
+STUDY/DSA/course/gfg_dsa/2-Mathematics/Pasted image 20240721045222.png
+STUDY/DSA/course/gfg_dsa/2-Mathematics/Pasted image 20240721045304.png
+STUDY/DSA/course/gfg_dsa/2-Mathematics/Pasted image 20240721045440.png
+STUDY/DSA/leetcode/editorial_screenshot/1-500/172. Factorial Trailing Zeroes.png
+STUDY/DSA/leetcode/problem_set/1-1000/101-200/172_-_Factorial_Trailing_Zeroes.md
+daily_notes/2024/07-Jul/2024-Jul-21.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#957ff33</div>
+                                        <div class="message">vault backup: 2024-07-21 04:36:38
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/course/gfg_dsa/-.md
+STUDY/DSA/course/gfg_dsa/PLAN.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acb9a76</div>
+                                        <div class="message">vault backup: 2024-07-20 16:59:22
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/11 - Space Complexity.md
+Untitled 1.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b80f727</div>
+                                        <div class="message">vault backup: 2024-07-20 14:32:43
+
+Affected files:
+todos/Courses_n_Certifications.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8e8feb</div>
+                                        <div class="message">vault backup: 2024-07-20 11:35:12
+
+Affected files:
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+.obsidian/workspace.json
+Excalidraw/Drawing 2024-07-20 08.59.46.excalidraw.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b03b1c7</div>
+                                        <div class="message">vault backup: 2024-07-20 10:08:17
+
+Affected files:
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0b3bcba</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/yd0369/endeavor</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3cce685</div>
+                                        <div class="message">vault backup: 2024-07-20 09:05:49
+
+Affected files:
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+.obsidian/plugins/obsidian-git/main.js
+.obsidian/plugins/obsidian-git/manifest.json
+.obsidian/plugins/obsidian-git/styles.css
+.obsidian/workspace-mobile.json
+Excalidraw/Drawing 2024-07-20 08.59.46.excalidraw.md
+Excalidraw/Pasted Image 20240720090407_674.jpg
+Untitled.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#185d0e5</div>
+                                        <div class="message">vault backup: 2024-07-20 07:12:00
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/07-Jul/2024-Jul-20.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82de170</div>
+                                        <div class="message">vault backup: 2024-07-20 03:17:59
+
+Affected files:
+.obsidian/workspace.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdda46d</div>
+                                        <div class="message">vault backup: 2024-07-19 06:09:24
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/0-essentials/time_and_space_complexity_for_intuition.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/4 - Asymptotic Notations.md
+daily_notes/2024/07-Jul/2024-Jul-19.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc82e0c</div>
+                                        <div class="message">vault backup: 2024-07-18 08:10:13
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/dsa_concepts/0-essentials/time_and_space_complexity_for_intuition.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/10 - Recursion Tree Method for Solving Recurrences.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/11 - Space Complexity.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/3 - Worst, Average and Best Case Time Complexities.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/4 - Asymptotic Notations.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/5 - Big O Notation.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/6 - Omega Notation.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/7 - Theta Notation.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/8 - Analysis of Common Loops.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/9 - Analysis of Recursion.md
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240717095053.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718044352.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718044424.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718044456.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718044518.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718050243.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718050325.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718053509.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718053548.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718060730.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718060827.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718060842.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718060856.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718060908.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718060913.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718061021.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718061033.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718061100.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718061125.png
+STUDY/DSA/course/gfg_dsa/__media__/Pasted image 20240718061141.png
+daily_notes/2024/07-Jul/2024-Jul-18.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#355c6dc</div>
+                                        <div class="message">vault backup: 2024-07-17 08:31:18
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/07-Jul/2024-Jul-17.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#550b5ea</div>
+                                        <div class="message">vault backup: 2024-07-17 07:07:08
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/1 - Analysis of Algorithms (Background).md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/2 - Asymptotic Analysis.md
+STUDY/DSA/course/gfg_dsa/1-Analysis_of_Algorithms/3 - Worst, Average and Best Case Time Complexities.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fec7ab1</div>
+                                        <div class="message">vault backup: 2024-07-17 05:28:05
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/sheets/ArshGYL45-60D_280P.md
+daily_notes/2024/07-Jul/2024-Jul-17.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e847c2</div>
+                                        <div class="message">vault backup: 2024-07-17 04:23:34
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/sheets/ArshGYL45-60D_280P.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#067a814</div>
+                                        <div class="message">vault backup: 2024-07-15 05:36:49
+
+Affected files:
+.obsidian/graph.json
+.obsidian/workspace.json
+Untitled 1.canvas
+daily_notes/2024/07-Jul/2024-Jul-15.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af86962</div>
+                                        <div class="message">vault backup: 2024-07-15 04:31:39
+
+Affected files:
+.obsidian/community-plugins.json
+.obsidian/hotkeys.json
+.obsidian/plugins/omnisearch/data.json
+.obsidian/plugins/omnisearch/main.js
+.obsidian/plugins/omnisearch/manifest.json
+.obsidian/plugins/omnisearch/styles.css
+.obsidian/workspace.json
+STUDY/DSA/leetcode/problem_set/1-1000/1-100/1_-_Two_Sum.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7316db4</div>
+                                        <div class="message">vault backup: 2024-07-13 05:11:55
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/leetcode/problem_set/1-1000/1-100/1_-_Two_Sum.md
+daily_notes/2024/07-Jul/2024-Jul-13.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08e8649</div>
+                                        <div class="message">vault backup: 2024-07-13 03:20:14
+
+Affected files:
+.obsidian/workspace.json</div>
                                     </div>
                                 </div>
                             </section>
