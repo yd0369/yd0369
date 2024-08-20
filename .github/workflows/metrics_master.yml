@@ -7,7 +7,7 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  github-metrics-introduction:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -23,7 +23,12 @@ jobs:
           base_indepth: yes
           base_hireable: yes 
           plugin_introduction: yes
-      
+
+  github-metrics-contribution-calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Contribution Calendar 
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -34,6 +39,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+  github-metrics-starred-topics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Starred Topics with Icons
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -45,6 +55,11 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
+  github-metrics-pinned-repo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Pinned Repositories
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -54,7 +69,12 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_pinned: 3
-      
+
+  github-metrics-feat-languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Featured Star List Languages
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -67,6 +87,11 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 0
 
+  github-metrics-achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -76,7 +101,12 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-        
+
+  github-metrics-leetcode-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: LeetCode Stats
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -87,7 +117,12 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user : yd0369
           plugin_leetcode_sections: solved, skills, recent
-
+  
+  github-metrics-recent-activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Recent Activity
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -98,7 +133,12 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 15
           plugin_activity_days: 0
-
+  
+  github-metrics-activity-charts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Recent Activity Charts
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -111,6 +151,11 @@ jobs:
           plugin_habits_charts: yes
           config_timezone: Asia/Kolkata
 
+  github-metrics-indepth-code-analysis:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Indepth Code Analysis
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -125,6 +170,11 @@ jobs:
           plugin_languages_limit: 30
           plugin_languages_analysis_timeout: 40
 
+  github-metrics-repo-traffic:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Repositories Traffic
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -134,6 +184,11 @@ jobs:
           base: ""
           plugin_traffic: yes
 
+  github-metrics-fortune-teller:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Fortune
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
