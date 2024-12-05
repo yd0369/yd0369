@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="60" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="954" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,11 +15,641 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
-                            </svg>
-                            No recent activity
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4ba0d81</div>
+                                        <div class="message">Added ignore for workspace.json files</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2b491d4</div>
+                                        <div class="message">BRANCH CONFLICT FIX</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d57a185</div>
+                                        <div class="message">Ignore Workspace.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">yd0369/SAS-Programming</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">master</span>
+                                        in
+                                        <span class="repo">yd0369/SAS-Programming</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">mobile</span>
+                                        in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 22 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ff3a683</div>
+                                        <div class="message">vault backup: 2024-09-17 10:26:07
+
+Affected files:
+.obsidian/workspace.json
+DASHBOARD/Sleep Cycle Dashboard.md
+STUDY/DSA/articles/core/9-matrix/1-introduction-to-matrix.md
+STUDY/DSA/articles/core/9-matrix/2-multidimensional_array_in_cpp.md
+STUDY/DSA/articles/core/9-matrix/2d_array_example.png
+STUDY/DSA/articles/core/9-matrix/3d_array_example.png</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e1111a</div>
+                                        <div class="message">vault backup: 2024-09-17 05:00:03
+
+Affected files:
+.obsidian/workspace.json
+DASHBOARD/Sleep Cycle Dashboard.md
+LC Solved TODO MAKE ENTRY.md
+daily_notes/2024/09-Sep/2024-Sep-17.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d9ae36</div>
+                                        <div class="message">vault backup: 2024-09-15 18:02:33
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/14-Find_triplets_with_zero_sum.md
+STUDY/DSA/articles/core/8-sorting/22-Three_way_partitioning.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6fd5f3</div>
+                                        <div class="message">vault backup: 2024-09-15 14:01:15
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/10-Merge_function_of_Merge_Sort.md
+STUDY/DSA/articles/core/8-sorting/12-Merge_two_sorted_arrays_without_extra_space.md
+STUDY/DSA/articles/core/8-sorting/13-Merge_three_sorted_arrays.md
+STUDY/DSA/articles/core/8-sorting/4.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f60f154</div>
+                                        <div class="message">vault backup: 2024-09-15 11:44:26
+
+Affected files:
+.obsidian/plugins/obsidian-icon-folder/data.json
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/bucket-sort-DryRunCode.png
+STUDY/DSA/articles/__media__/bucket-sort-HashChain-BucketChain.png
+STUDY/DSA/articles/__media__/cycle-sort_cycles-example1.png
+STUDY/DSA/articles/__media__/cycle-sort_cycles-example2.png
+STUDY/DSA/articles/__media__/heap-sort-GFG-card-1.png
+STUDY/DSA/articles/__media__/heap-sort-GFG-card-2.png
+STUDY/DSA/articles/__media__/heap-sort-GFG-card-3.png
+STUDY/DSA/articles/__media__/heap-sort-GFG-card-4.png
+STUDY/DSA/articles/__media__/heap-sort-GFG-card-5.png
+STUDY/DSA/articles/__media__/heap-sort-GFG-card-6.png
+STUDY/DSA/articles/__media__/heap-sort-GFG-card-7.png
+STUDY/DSA/articles/__media__/radix-sort-GFG-card-1.png
+STUDY/DSA/articles/__media__/radix-sort-GFG-card-2.png
+STUDY/DSA/articles/__media__/radix-sort-GFG-card-3.png
+STUDY/DSA/articles/__media__/radix-sort-GFG-card-4.png
+STUDY/DSA/articles/__media__/radix-sort-GFG-card-5.png
+STUDY/DSA/articles/core/8-sorting/36-Heap_Sort.md
+STUDY/DSA/articles/core/8-sorting/40-Bucket_Sort.md
+STUDY/DSA/articles/core/8-sorting/41-Count_number_of_possible_triangles.md
+STUDY/DSA/articles/core/8-sorting/heap_sort-codeDryRun.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915103133.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915103340.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915103457.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915103642.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915103800.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915103925.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915103957.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915104009.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915104045.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/Pasted image 20240915104111.png
+STUDY/Ted Talks/The secret to getting better sleep tonight - James Leinhardt/The secret to getting better sleep tonight - James Leinhardt.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf0b37c</div>
+                                        <div class="message">vault backup: 2024-09-15 07:43:49
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/8-sorting/40-Bucket_Sort.md
+STUDY/DSA/articles/core/8-sorting/Pasted image 20240915062037.png
+daily_notes/2024/09-Sep/2024-Sep-15.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e42fee5</div>
+                                        <div class="message">vault backup: 2024-09-14 18:40:23
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/39-Radix_Sort.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b927844</div>
+                                        <div class="message">vault backup: 2024-09-14 16:42:56
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/39-Radix_Sort.md
+STUDY/DSA/articles/core/8-sorting/radix-sort-GFG-card-1.png
+STUDY/DSA/articles/core/8-sorting/radix-sort-GFG-card-2.png
+STUDY/DSA/articles/core/8-sorting/radix-sort-GFG-card-3.png
+STUDY/DSA/articles/core/8-sorting/radix-sort-GFG-card-4.png
+STUDY/DSA/articles/core/8-sorting/radix-sort-GFG-card-5.png</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adc8214</div>
+                                        <div class="message">vault backup: 2024-09-14 15:19:53
+
+Affected files:
+.obsidian/plugins/obsidian-icon-folder/data.json
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/8-sorting/32-Merge_Overlapping_Intervals.md
+STUDY/DSA/articles/core/8-sorting/33-Meeting_the_maximum_guest.md
+STUDY/DSA/articles/core/8-sorting/34-Minimum_platforms.md
+STUDY/DSA/articles/core/8-sorting/35-Cycle_Sort.md
+STUDY/DSA/articles/core/8-sorting/36-Heap_Sort.md
+STUDY/DSA/articles/core/8-sorting/37-Counting_Sort.md
+STUDY/DSA/articles/core/8-sorting/38-Counting_Sort-Lexicographical_Sorting.md
+STUDY/DSA/articles/core/8-sorting/39-Radix_Sort.md
+STUDY/DSA/articles/core/8-sorting/40-Bucket_Sort.md
+STUDY/DSA/articles/core/8-sorting/41-Count_number_of_possible_triangles.md
+STUDY/DSA/articles/core/8-sorting/42-Sort_by_Absolute_Difference.md
+STUDY/DSA/articles/core/8-sorting/43-Triplets_Sum_in_Array.md
+STUDY/DSA/articles/core/8-sorting/44-Number_of_Pairs.md
+STUDY/DSA/articles/core/8-sorting/45-Closer_to_sort.md
+STUDY/DSA/articles/core/8-sorting/cycle-sort_cycles-example1.png
+STUDY/DSA/articles/core/8-sorting/cycle-sort_cycles-example2.png
+STUDY/DSA/articles/core/8-sorting/heap-sort-GFG-card-1.png
+STUDY/DSA/articles/core/8-sorting/heap-sort-GFG-card-2.png
+STUDY/DSA/articles/core/8-sorting/heap-sort-GFG-card-3.png
+STUDY/DSA/articles/core/8-sorting/heap-sort-GFG-card-4.png
+STUDY/DSA/articles/core/8-sorting/heap-sort-GFG-card-5.png
+STUDY/DSA/articles/core/8-sorting/heap-sort-GFG-card-6.png
+STUDY/DSA/articles/core/8-sorting/heap-sort-GFG-card-7.png
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Pasted image 20240913170927.png
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Pasted image 20240913173104.png
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Pasted image 20240913173247.png
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Pasted image 20240913174828.png
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Pasted image 20240913175429.png
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Resources/Ex_Files_Time_Management_Fundamentals/TMF_ApprovedGatheringPointSelection.pdf
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Resources/Ex_Files_Time_Management_Fundamentals/TMF_GatheringPoints.pdf
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Resources/Ex_Files_Time_Management_Fundamentals/TMF_IdentifyingMVAs.pdf
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Resources/Ex_Files_Time_Management_Fundamentals/TMF_MentalTriggers.pdf
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Resources/Ex_Files_Time_Management_Fundamentals/TMF_RecommendedFollow-UpCourses.pdf
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Resources/Ex_Files_Time_Management_Fundamentals/TMF_ResourceChecklist.pdf
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Resources/Ex_Files_Time_Management_Fundamentals/TMF_SwitchtaskingExercise.pdf
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Resources/Ex_Files_Time_Management_Fundamentals/TMF_WhatWhenWhereProcessing.pdf
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Resources/Glossary_Time_Management_Fundamentals.pdf
+STUDY/Management/Time/Dave Crenshaw/Time Management Fundamentals/Time Management Fundamentals.md
+daily_notes/2024/09-Sep/2024-Sep-13.md
+daily_notes/2024/09-Sep/2024-Sep-14.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae95f2a</div>
+                                        <div class="message">vault backup: 2024-09-12 08:35:36
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/8-sorting/33-Meeting_the_maximum_guest.md
+STUDY/DSA/articles/core/8-sorting/34-Minimum_platforms.md
+STUDY/DSA/articles/core/8-sorting/35-Cycle_Sort.md
+STUDY/DSA/articles/core/8-sorting/36-Heap_Sort.md
+STUDY/DSA/articles/core/8-sorting/37-Counting_Sort.md
+STUDY/DSA/articles/core/8-sorting/38-Radix_Sort.md
+STUDY/DSA/articles/core/8-sorting/39-Bucket_Sort.md
+STUDY/DSA/articles/core/8-sorting/40-Count_number_of_possible_triangles.md
+STUDY/DSA/articles/core/8-sorting/41-Sort_by_Absolute_Difference.md
+STUDY/DSA/articles/core/8-sorting/42-Triplets_Sum_in_Array.md
+STUDY/DSA/articles/core/8-sorting/43-Number_of_Pairs.md
+STUDY/DSA/articles/core/8-sorting/44-Closer_to_sort.md
+daily_notes/2024/09-Sep/2024-Sep-12.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b54714</div>
+                                        <div class="message">vault backup: 2024-09-11 07:44:23
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/dutch_national_flag-3_pointers.png
+STUDY/DSA/articles/__media__/find-kth_smallest_element_with_quick_sort_partitiong.png
+STUDY/DSA/articles/__media__/quick-sort_analysis_best_case.png
+STUDY/DSA/articles/__media__/quick-sort_analysis_worst_case.png
+STUDY/DSA/articles/__media__/quick-sort_random_pivot.png
+STUDY/DSA/articles/__media__/quick-sort_recursion_tree.png
+STUDY/DSA/articles/core/8-sorting/26-Segregate_positive_and_negative.md
+STUDY/DSA/articles/core/8-sorting/27-Segregate_even_and_odd.md
+STUDY/DSA/articles/core/8-sorting/28-Segregate_ones_and_zeros.md
+STUDY/DSA/articles/core/8-sorting/32-Merge_Overlapping_Intervals.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1 1 1.md
+daily_notes/2024/09-Sep/2024-Sep-10.md
+daily_notes/2024/09-Sep/2024-Sep-11.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f531a9f</div>
+                                        <div class="message">vault backup: 2024-09-10 09:45:17
+
+Affected files:
+.obsidian/graph.json
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/8-sorting/26-Sort_an_array-Segregate_positive_and_negative.md
+STUDY/DSA/articles/core/8-sorting/27-Sort_an_array-Segregate_even_and_odd.md
+STUDY/DSA/articles/core/8-sorting/28-Sort_an_array-Segregate_ones_and_zeros.md
+STUDY/DSA/articles/core/8-sorting/29-Dutch_National_Flag_Algorithm_-_Sort_an_arrays-of_0's-1's-2's.md
+STUDY/DSA/articles/core/8-sorting/30-Three_way_partitioning-_&lt;pivot-pivot-pivot&lt;.md
+STUDY/DSA/articles/core/8-sorting/31-Partition_around_a_range-_&lt;pivot(r)-pivot(range)-pivot(r)&lt;.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/dutch_national_flag-3_pointers.png</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ebb28b</div>
+                                        <div class="message">vault backup: 2024-09-09 08:16:20
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/26-Sort_an_array-Segregate_positive_and_negative.md
+STUDY/DSA/articles/core/8-sorting/27-Sort_an_array-Segregate_even_and_odd.md
+STUDY/DSA/articles/core/8-sorting/28-Sort_an_array-Segregate_ones_and_zeros.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1.md
+daily_notes/2024/09-Sep/2024-Sep-09.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ce8a7d</div>
+                                        <div class="message">vault backup: 2024-09-09 04:02:05
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#143c426</div>
+                                        <div class="message">vault backup: 2024-09-08 18:07:32
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/8-sorting/21-Quick_Sort.md
+STUDY/DSA/articles/core/8-sorting/22-Three_way_partitioning.md
+STUDY/DSA/articles/core/8-sorting/23-find_Kth_Smallest_or_Largest_Element_from_unsorted_Array.md
+STUDY/DSA/articles/core/8-sorting/24-Minimum_difference_in_an_array.md
+STUDY/DSA/articles/core/8-sorting/25-Chocolate_distribution_problem.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1 1 1 1 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1 1 1 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1 1 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled 1 1 1.md
+STUDY/DSA/articles/core/8-sorting/Untitled Kanban.md
+STUDY/DSA/articles/core/8-sorting/find-kth_smallest_element_with_quick_sort_partitiong.png
+STUDY/DSA/articles/core/8-sorting/quick-sort_random_pivot.png
+STUDY/DSA/sheets/LVBBR450.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61084bb</div>
+                                        <div class="message">vault backup: 2024-09-08 13:04:49
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/18-Quick_Sort-Naive_Partition.md
+STUDY/DSA/articles/core/8-sorting/21-Quick_Sort-Fundamentals.md
+STUDY/DSA/articles/core/8-sorting/21-Quick_Sort.md
+STUDY/DSA/articles/core/8-sorting/Untitled.md
+STUDY/DSA/articles/core/8-sorting/quick-sort_analysis_best_case.png
+STUDY/DSA/articles/core/8-sorting/quick-sort_analysis_worst_case.png
+STUDY/DSA/articles/core/8-sorting/quick-sort_recursion_tree.png
+STUDY/DSA/resources/CLRS Book.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c85b647</div>
+                                        <div class="message">vault backup: 2024-09-08 05:51:38
+
+Affected files:
+.obsidian/plugins/color-cycler/data.json
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/count_inversion_in_an_array_examples.png
+STUDY/DSA/articles/__media__/count_inversion_in_an_array_with_modified_merge_sort.png
+STUDY/DSA/articles/__media__/hoares_partitioning_corner_case-all_elements_are_same_in_array.png
+STUDY/DSA/articles/__media__/hoares_partitioning_corner_case-pivot_is_largest.png
+STUDY/DSA/articles/__media__/hoares_partitioning_corner_case-pivot_is_smallest.png
+STUDY/DSA/articles/__media__/hoares_partitioning_dry_run_example.png
+STUDY/DSA/articles/__media__/hoares_partitioning_windows.png
+STUDY/DSA/articles/__media__/lomuto_partition_corner_cases_when_pivot_value_is_extreme.png
+STUDY/DSA/articles/__media__/lomuto_partition_dry_run_p1.png
+STUDY/DSA/articles/__media__/lomuto_partition_dry_run_p2.png
+STUDY/DSA/articles/__media__/lomuto_partition_when_pivot_is_given.png
+STUDY/DSA/articles/__media__/lomuto_partition_windows_overview.png
+STUDY/DSA/articles/core/8-sorting/17-Count_inversion_in_an_array.md
+STUDY/DSA/articles/core/8-sorting/18-Quick_Sort-Naive_Partition.md
+STUDY/DSA/articles/core/8-sorting/19-Quick_Sort-Lomuto_Partition.md
+STUDY/DSA/articles/core/8-sorting/20-Quick_Sort-Hoare's_Partition.md
+STUDY/DSA/articles/core/8-sorting/20-Quick_Sort-Lomuto_Partition.md
+STUDY/DSA/articles/core/8-sorting/21-Quick_Sort-Fundamentals.md
+STUDY/DSA/articles/core/8-sorting/21-Quick_Sort-Hoare's_Partition.md
+daily_notes/2024/09-Sep/2024-Sep-08.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6663ed1</div>
+                                        <div class="message">vault backup: 2024-09-07 16:37:47
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/18-Quick_Sort-Fundamentals.md
+STUDY/DSA/articles/core/8-sorting/19-Quick_Sort-Naive_Partition.md
+STUDY/DSA/articles/core/8-sorting/20-Quick_Sort-Lomuto_Partition.md
+STUDY/DSA/articles/core/8-sorting/21-Quick_Sort-Hoare's_Partition.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e770079</div>
+                                        <div class="message">vault backup: 2024-09-07 14:25:36
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/09-Sep/2024-Sep-07.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cf799e</div>
+                                        <div class="message">vault backup: 2024-09-07 06:49:17
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+daily_notes/2024/09-Sep/2024-Sep-06.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">yd0369/endeavor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1e3f328</div>
+                                        <div class="message">vault backup: 2024-09-05 09:42:27
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/8-sorting/17-Count_inversion_in_an_array.md
+STUDY/DSA/articles/core/8-sorting/Pasted image 20240905072200.png
+STUDY/DSA/articles/core/8-sorting/Untitled Kanban.md
+daily_notes/2024/09-Sep/2024-Sep-04.md
+daily_notes/2024/09-Sep/2024-Sep-05.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2be766a</div>
+                                        <div class="message">vault backup: 2024-09-04 08:03:08
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/8-sorting/17-Count_inversion_in_an_array.md
+STUDY/DSA/articles/core/8-sorting/Pasted image 20240903091415.png
+daily_notes/2024/09-Sep/2024-Sep-03.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe0229f</div>
+                                        <div class="message">vault backup: 2024-09-03 06:38:38
+
+Affected files:
+.obsidian/plugins/color-cycler/data.json
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/core/8-sorting/15-Intersection_of_two_sorted_arrays.md
+STUDY/DSA/articles/core/8-sorting/16-Union_of_two_sorted_arrays.md
+STUDY/DSA/articles/core/8-sorting/17-Count_inversion_in_an_array.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36075e9</div>
+                                        <div class="message">vault backup: 2024-09-02 06:23:25
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/15-Intersection_of_two_sorted_arrays.md
+daily_notes/2024/09-Sep/2024-Sep-02.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b3e202</div>
+                                        <div class="message">vault backup: 2024-09-01 18:30:05
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md
+STUDY/DSA/articles/__media__/illustration_of_merging_two_sorted_arrays.png
+STUDY/DSA/articles/__media__/insertion_sort_illustrative_example.png
+STUDY/DSA/articles/__media__/insertion_sort_prevent_unstable_error.png
+STUDY/DSA/articles/__media__/merge_function_of_merge_sort.png
+STUDY/DSA/articles/__media__/merge_sort_-_merge_function_ensuring_stability.png
+STUDY/DSA/articles/__media__/merge_sort_implementation.png
+STUDY/DSA/articles/core/8-sorting/10-Merge_Sort.md
+STUDY/DSA/articles/core/8-sorting/10-Merge_function_of_Merge_Sort.md
+STUDY/DSA/articles/core/8-sorting/11-Merge_Sort.md
+STUDY/DSA/articles/core/8-sorting/12-Merge_two_sorted_arrays_without_extra_space.md
+STUDY/DSA/articles/core/8-sorting/13-Merge_three_sorted_arrays.md
+STUDY/DSA/articles/core/8-sorting/14-Find_triplets_with_zero_sum.md
+STUDY/DSA/articles/core/8-sorting/15-Intersection_of_two_sorted_arrays.md
+STUDY/DSA/articles/core/8-sorting/16-Union_of_two_sorted_arrays.md
+STUDY/DSA/articles/core/8-sorting/9-Merge_two_sorted_arrays.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7207b21</div>
+                                        <div class="message">vault backup: 2024-09-01 09:59:18
+
+Affected files:
+.obsidian/workspace.json
+LC Solved TODO MAKE ENTRY.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dad5c09</div>
+                                        <div class="message">vault backup: 2024-09-01 05:40:22
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/9-Merge_two_sorted_arrays.md
+daily_notes/2024/09-Sep/2024-Sep-01.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e209e4</div>
+                                        <div class="message">vault backup: 2024-09-01 03:42:46
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/8-sorting/10-Merge_Sort.md
+STUDY/DSA/articles/core/8-sorting/5.md
+STUDY/DSA/articles/core/8-sorting/8-Insertion_Sort.md
+STUDY/DSA/articles/core/8-sorting/9-Merge_two_sorted_arrays.md
+STUDY/DSA/articles/core/8-sorting/illustration_of_merging_two_sorted_arrays.png
+STUDY/DSA/articles/core/8-sorting/insertion_sort_illustrative_example.png
+STUDY/DSA/articles/core/8-sorting/insertion_sort_prevent_unstable_error.png
+STUDY/DSA/articles/core/8-sorting/merge_sort_implementation.png
+daily_notes/2024/08-Aug/Untitled Kanban 1.md
+daily_notes/2024/08-Aug/Untitled Kanban.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e144348</div>
+                                        <div class="message">vault backup: 2024-08-31 15:15:13
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/__media__/flowchart_of_selection_sort.png
+STUDY/DSA/articles/core/8-sorting/1-Overview-of-sorting-algorithm.md
+STUDY/DSA/articles/core/8-sorting/6-Bubble_Sort.md
+STUDY/DSA/articles/core/8-sorting/7-Selection_Sort.md
+STUDY/DSA/articles/core/8-sorting/8-Insertion_Sort.md
+STUDY/DSA/articles/core/Sorting BOx/PLAY.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e32f61</div>
+                                        <div class="message">vault backup: 2024-08-31 08:28:39
+
+Affected files:
+STUDY/DSA/articles/core/5-recursion/4-Tail_Recursion.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a97f811</div>
+                                        <div class="message">vault backup: 2024-08-31 06:42:52
+
+Affected files:
+.obsidian/workspace.json
+STUDY/DSA/articles/core/5-recursion/0-Recursion_-_Introduction.md
+STUDY/DSA/articles/core/5-recursion/1-Recursion_-_Introduction.md
+STUDY/DSA/articles/core/5-recursion/1-Types_of_Recursion.md
+STUDY/DSA/articles/core/5-recursion/10-Print_N_to_1_Using_Recursion.md
+STUDY/DSA/articles/core/5-recursion/11-Fibonacci_Using_Recursion.md
+STUDY/DSA/articles/core/5-recursion/12-Factorial_Using_Recursion.md
+STUDY/DSA/articles/core/5-recursion/2-Writing_Base_Cases_in_Recursion.md
+STUDY/DSA/articles/core/5-recursion/3-Applications_of_Recursion.md
+STUDY/DSA/articles/core/5-recursion/4-Tail_Recursion.md
+STUDY/DSA/articles/core/5-recursion/5-Power_Of_Numbers.md
+STUDY/DSA/articles/core/5-recursion/5-Recursion_Output_Practice_-_Part_2.md
+STUDY/DSA/articles/core/5-recursion/6-Power_Using_Recursion.md
+STUDY/DSA/articles/core/5-recursion/7-Power_Of_Numbers.md
+STUDY/DSA/articles/core/5-recursion/8-Power_Using_Recursion.md
+STUDY/DSA/articles/core/5-recursion/9-Print_1_to_N_Using_Recursion.md
+STUDY/DSA/articles/core/5-recursion/types-of-recursion_head-recursion.png
+STUDY/DSA/articles/core/5-recursion/types-of-recursion_indirect-recursion.png
+STUDY/DSA/articles/core/5-recursion/types-of-recursion_indirect-recutsion-2.png
+STUDY/DSA/articles/core/5-recursion/types-of-recursion_nested-recursion.png
+STUDY/DSA/articles/core/5-recursion/types-of-recursion_tail-recursion.png
+STUDY/DSA/articles/core/5-recursion/types-of-recursion_tree-recursion.png
+daily_notes/2024/08-Aug/2024-Aug-31.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bf7e5b</div>
+                                        <div class="message">vault backup: 2024-08-30 08:37:21
+
+Affected files:
+.obsidian/workspace.json
+daily_notes/2024/08-Aug/2024-Aug-29.md
+daily_notes/2024/08-Aug/2024-Aug-30.md</div>
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </section>
                 </div>
